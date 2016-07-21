@@ -1,0 +1,84 @@
+2016-07-07 17:33:55 Workerman[cli.php] status 
+2016-07-07 17:33:55 Workerman[cli.php] not run
+2016-07-07 17:34:00 Workerman[cli.php] start in DEBUG mode
+2016-07-07 17:34:07 Workerman[cli.php] Stopping ...
+2016-07-07 17:34:07 Workerman[cli.php] has been stopped
+2016-07-07 17:40:38 Workerman[cli.php] start in DEBUG mode
+2016-07-07 17:40:43 Workerman[cli.php] Stopping ...
+2016-07-07 17:40:44 Workerman[cli.php] has been stopped
+2016-07-07 17:40:45 Workerman[cli.php] start in DAEMON mode
+2016-07-07 17:40:49 Workerman[cli.php] status 
+2016-07-07 17:40:54 Workerman[cli.php] status 
+2016-07-07 17:40:55 Workerman[cli.php] start in DAEMON mode
+2016-07-07 17:40:55 Workerman[cli.php] already running
+2016-07-07 17:40:57 Workerman[cli.php] start in DAEMON mode
+2016-07-07 17:40:57 Workerman[cli.php] already running
+2016-07-07 17:40:59 Workerman[cli.php] start in DAEMON mode
+2016-07-07 17:40:59 Workerman[cli.php] already running
+2016-07-07 17:41:02 Workerman[cli.php] start in DAEMON mode
+2016-07-07 17:41:02 Workerman[cli.php] already running
+2016-07-07 17:41:06 Workerman[cli.php] status 
+2016-07-07 17:41:09 Workerman[cli.php] status 
+2016-07-07 17:41:11 Workerman[cli.php] status 
+2016-07-07 17:52:25 Workerman[cli.php] stop 
+2016-07-07 17:52:25 Workerman[cli.php] is stoping ...
+2016-07-07 17:52:25 Workerman[cli.php] Stopping ...
+2016-07-07 17:52:25 Workerman[cli.php] has been stopped
+2016-07-07 17:52:25 Workerman[cli.php] stop success
+2016-07-07 17:52:32 Workerman[cli.php] start in DAEMON mode
+2016-07-07 17:52:36 Workerman[cli.php] status 
+2016-07-07 17:52:39 Workerman[cli.php] status 
+2016-07-07 17:54:06 Workerman[cli.php] status 
+2016-07-07 18:38:20 Workerman[cli.php] start in DEBUG mode
+2016-07-07 18:38:20 Workerman[cli.php] already running
+2016-07-07 18:38:24 Workerman[cli.php] stop 
+2016-07-07 18:38:24 Workerman[cli.php] is stoping ...
+2016-07-07 18:38:24 Workerman[cli.php] Stopping ...
+2016-07-07 18:38:24 Workerman[cli.php] has been stopped
+2016-07-07 18:38:24 Workerman[cli.php] stop success
+2016-07-07 18:38:26 Workerman[cli.php] start in DEBUG mode
+2016-07-07 18:38:28 Workerman[cli.php] Stopping ...
+2016-07-07 18:38:28 Workerman[cli.php] has been stopped
+2016-07-07 18:38:30 Workerman[cli.php] start in DEBUG mode
+2016-07-07 18:38:31 Workerman[cli.php] Stopping ...
+2016-07-07 18:38:31 Workerman[cli.php] has been stopped
+2016-07-07 18:39:03 Workerman[cli.php] stop 
+2016-07-07 18:39:03 Workerman[cli.php] not run
+2016-07-07 18:39:06 Workerman[cli.php] start in DAEMON mode
+2016-07-07 18:39:09 Workerman[cli.php] stop 
+2016-07-07 18:39:09 Workerman[cli.php] is stoping ...
+2016-07-07 18:39:09 Workerman[cli.php] Stopping ...
+2016-07-07 18:39:09 Workerman[cli.php] has been stopped
+2016-07-07 18:39:09 Workerman[cli.php] stop success
+2016-07-07 18:39:11 Workerman[cli.php] start in DAEMON mode
+2016-07-15 11:06:58 Workerman[cli.php] status 
+2016-07-15 11:07:00 Workerman[cli.php] status 
+2016-07-15 11:16:04 Workerman[cli.php] status 
+2016-07-15 11:39:56 Workerman[cli.php] status 
+2016-07-15 11:40:35 Workerman[cli.php] status 
+2016-07-15 11:47:22 Workerman[cli.php] status 
+2016-07-15 11:47:25 Workerman[cli.php] status 
+2016-07-15 11:47:54 Workerman[cli.php] status 
+2016-07-15 11:47:57 Workerman[cli.php] status 
+2016-07-15 11:48:10 Workerman[cli.php] status 
+2016-07-15 11:48:13 Workerman[cli.php] status 
+2016-07-15 12:06:24 Workerman[cli.php] status 
+2016-07-18 15:59:41 Workerman[cli.php] status 
+2016-07-18 15:59:41 Workerman[cli.php] not run
+2016-07-18 15:59:45 Workerman[cli.php] start in DEBUG mode
+2016-07-18 15:59:47 Workerman[cli.php] Stopping ...
+2016-07-18 15:59:47 Workerman[cli.php] has been stopped
+2016-07-18 15:59:50 Workerman[cli.php] start in DAEMON mode
+2016-07-18 15:59:54 Workerman[cli.php] status 
+2016-07-18 17:08:53 Workerman[cli.php] status 
+2016-07-18 17:08:57 Workerman[cli.php] status 
+2016-07-19 11:15:58 Workerman[cli.php] start in DEBUG mode
+2016-07-19 11:16:01 Workerman[cli.php] Stopping ...
+2016-07-19 11:16:01 Workerman[cli.php] has been stopped
+2016-07-19 11:16:04 Workerman[cli.php] start in DAEMON mode
+2016-07-19 11:16:08 Workerman[cli.php] status 
+2016-07-19 11:16:11 Workerman[cli.php] stop 
+2016-07-19 11:16:11 Workerman[cli.php] is stoping ...
+2016-07-19 11:16:11 Workerman[cli.php] Stopping ...
+2016-07-19 11:16:11 Workerman[cli.php] has been stopped
+2016-07-19 11:16:11 Workerman[cli.php] stop success
